@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoSecondApp</string>
+    <string name="button">Button</string>
+    <string name="welcome_to_android">Welcome to Android!</string>
+    <string name="Large_Text">Large Text</string>
+    <string name="Button_1">Button1</string>
+    <string name="Button_2">Button2</string>
+</resources>
